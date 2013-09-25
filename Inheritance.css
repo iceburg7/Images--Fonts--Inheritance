@@ -32,7 +32,7 @@ body {
 	margin-left:auto;
 	margin-right:auto;
 	text-align: center;
-	margin-top: 0px;
+	margin-top: 20px;
 	}
 	
 #leftcolumn {
@@ -45,6 +45,10 @@ body {
 	
 #rightcolumn {
 	width: 150px;
+	}
+	
+#image5 {
+	background-image: url(images/orange6.jpg);
 	}
 	
 #footer {
@@ -72,3 +76,13 @@ body {
 	background-color: #fff1cf;
 	float:left;
 	}
+	
+.img {
+	margin:0;
+	}
+	
+.image {
+	width: 150px;
+	height: 150px;
+	background-repeat: no-repeat;
+	background-position: center;
