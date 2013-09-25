@@ -1,0 +1,74 @@
+
+body {
+	background-image: url(images/sunset.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+	
+	
+#bodycontainer {
+	width:600px;
+	height:700px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+		
+	
+	
+
+#titleblock {
+	background-color: #73410f;
+	width: 600px;
+	height: 75px;
+	color: #f5ad00;
+	font-family: ariel, helvetica, sans-setif;
+	font-size: 2em
+	/*text-align: center;*/
+	}
+	
+#title {
+	height: 30px;
+	width: 500px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	margin-top: 0px;
+	}
+	
+#leftcolumn {
+	width: 150px;
+	}
+	
+#centercolumn {
+	width: 300px;
+	}
+	
+#rightcolumn {
+	width: 150px;
+	}
+	
+#footer {
+	width:600px;
+	height: 25px;
+	font-family: ariel, helvetica, sans-setif;
+	background-color: #d38600;
+	color: #ffffff;
+	clear:both;
+	text-align: center;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+.column {
+	height:600px;
+	background-color: #fff1cf;
+	float:left;
+	}
